@@ -9,14 +9,14 @@
 - Опционально: imageio для экспорта GIF
 
 
-![Демонстрация](https://raw.githubusercontent.com/vbaryshev/urbanview/main/data/video/demo.gif)
+![Демонстрация](https://github.com/vbaryshev/urbanview/blob/35af937fa33504e8d43cf79639bd418579effecf/data/video/001.gif)
 
 ![image](https://github.com/vbaryshev/urbanview/blob/2a1adf633bca7db15db50f3ed64f4eb1048309dc/data/image/002.png)
 
 
 **Анализ**
 
-![Демонстрация](https://raw.githubusercontent.com/vbaryshev/urbanview/main/data/video/demo.gif)
+![Демонстрация](https://github.com/vbaryshev/urbanview/blob/35af937fa33504e8d43cf79639bd418579effecf/data/video/002.gif)
 
 ### Быстрый старт
 

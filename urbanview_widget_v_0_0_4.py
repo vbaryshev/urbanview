@@ -58,7 +58,7 @@ from qgis.core import (
 from qgis.gui import QgsMapToolEmitPoint, QgsMapCanvas, QgsVertexMarker
 
 # --- Конфигурация подключения и путей ---
-PG = dict(host='localhost', port=5432, dbname='gis', user='geonode', password='A_888888')
+PG = dict(host='localhost', port=5432, dbname='', user='', password='')
 SCHEMA = 'urbanview'
 
 QPT_PATH = r'/home/geonode/Рабочий стол/Неделя_1/mephi/RL/urban_view/data/urban_view.qpt'
