@@ -3,8 +3,22 @@
 Интерактивный виджет для QGIS, который обучает и оценивает табличных (tabular) RL‑агентов для задачи ранжирования изображений проектов. Включает светлую/тёмную тему, читаемые таблицы, экспорт логов/оценок/траекторий, анимацию поведения и инструменты быстрого эксперимента (train → eval → отчёт и бар‑чарт).
 
 - Основной файл: RLAnalysisWidget (скопировать целиком в консоль QGIS и выполнить)
+
 - БД: PostgreSQL/PostGIS, схема urbanview с таблицами проекта и изображений; для Q‑таблицы — urbanview.rl_q_table
+
 - Опционально: imageio для экспорта GIF
+
+
+<video width="640" height="360" controls>
+  <source src="https://raw.githubusercontent.com/vbaryshev/urbanview/main/data/video/001.mp4" type="video/mp4">
+  Ваш браузер не поддерживает видео тег.
+</video>
+
+
+![image](https://github.com/vbaryshev/urbanview/blob/2a1adf633bca7db15db50f3ed64f4eb1048309dc/data/image/002.png)
+
+
+
 
 ### Быстрый старт
 
