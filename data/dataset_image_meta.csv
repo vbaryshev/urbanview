@@ -1,0 +1,10 @@
+project_id,name_project,id_fno_group,id_view_object,id_morphotype,typology_id,vri_id,tags,priority,image_path,x,y,status,area,footprint,spp,year_entry,mean_level,mean_height,density,description
+1,Тест 1,,,,,,,1,/home/geonode/Рабочий стол/Неделя_1/mephi/RL/urban_view/data/dataset_image/0_0_0_Тест_1_1.jpg,37.69717421,55.68314626,built,100.0,1000.0,100.0,1995,5.0,7.0,35.0,Жилой дом
+1,Тест 1,,,,,,,2,/home/geonode/Рабочий стол/Неделя_1/mephi/RL/urban_view/data/dataset_image/0_0_0_Тест_1_2.jpg,37.69717421,55.68314626,built,100.0,1000.0,100.0,1995,5.0,7.0,35.0,Жилой дом
+1,Тест 1,,,,,,,3,/home/geonode/Рабочий стол/Неделя_1/mephi/RL/urban_view/data/dataset_image/0_0_0_Тест_1_3.jpg,37.69717421,55.68314626,built,100.0,1000.0,100.0,1995,5.0,7.0,35.0,Жилой дом
+5,Тест 2,,,,,,,1,/home/geonode/Рабочий стол/Неделя_1/mephi/RL/urban_view/data/dataset_image/0_0_0_Тест_2_1.jpg,37.69733108,55.68181029,built,1000.0,,3500.0,1995,50.0,18.0,35.0,Жилой дом
+5,Тест 2,,,,,,,2,/home/geonode/Рабочий стол/Неделя_1/mephi/RL/urban_view/data/dataset_image/0_0_0_Тест_2_2.jpg,37.69733108,55.68181029,built,1000.0,,3500.0,1995,50.0,18.0,35.0,Жилой дом
+5,Тест 2,,,,,,,3,/home/geonode/Рабочий стол/Неделя_1/mephi/RL/urban_view/data/dataset_image/0_0_0_Тест_2_3.jpg,37.69733108,55.68181029,built,1000.0,,3500.0,1995,50.0,18.0,35.0,Жилой дом
+6,Тест 3,,,,,,,1,/home/geonode/Рабочий стол/Неделя_1/mephi/RL/urban_view/data/dataset_image/0_0_0_Тест_3_1.jpg,37.69839358,55.68332591,built,1000.0,,350000.0,2000,15.0,15.0,20.0,Жилой дом
+6,Тест 3,,,,,,,2,/home/geonode/Рабочий стол/Неделя_1/mephi/RL/urban_view/data/dataset_image/0_0_0_Тест_3_2.jpg,37.69839358,55.68332591,built,1000.0,,350000.0,2000,15.0,15.0,20.0,Жилой дом
+6,Тест 3,,,,,,,3,/home/geonode/Рабочий стол/Неделя_1/mephi/RL/urban_view/data/dataset_image/0_0_0_Тест_3_3.jpg,37.69839358,55.68332591,built,1000.0,,350000.0,2000,15.0,15.0,20.0,Жилой дом
