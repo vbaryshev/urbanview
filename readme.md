@@ -10,7 +10,7 @@
 
 
 <video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/vbaryshev/urbanview/main/data/video/001.mp4" type="video/mp4">
+  <source src="https://github.com/vbaryshev/urbanview/blob/670d905b5cc58a5632d647e503d95fdc0fda0135/data/video/001.mp4" type="video/mp4">
   Ваш браузер не поддерживает видео тег.
 </video>
 
@@ -21,7 +21,7 @@
 **Анализ**
 
 <video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/vbaryshev/urbanview/main/data/video/001.mp4" type="video/mp4">
+  <source src="https://github.com/vbaryshev/urbanview/blob/670d905b5cc58a5632d647e503d95fdc0fda0135/data/video/002.mp4" type="video/mp4">
   Ваш браузер не поддерживает видео тег.
 </video>
 
