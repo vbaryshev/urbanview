@@ -9,22 +9,14 @@
 - Опционально: imageio для экспорта GIF
 
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/vbaryshev/urbanview/blob/670d905b5cc58a5632d647e503d95fdc0fda0135/data/video/001.mp4" type="video/mp4">
-  Ваш браузер не поддерживает видео тег.
-</video>
-
+![Демонстрация](https://raw.githubusercontent.com/vbaryshev/urbanview/main/data/video/demo.gif)
 
 ![image](https://github.com/vbaryshev/urbanview/blob/2a1adf633bca7db15db50f3ed64f4eb1048309dc/data/image/002.png)
 
 
 **Анализ**
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/vbaryshev/urbanview/blob/670d905b5cc58a5632d647e503d95fdc0fda0135/data/video/002.mp4" type="video/mp4">
-  Ваш браузер не поддерживает видео тег.
-</video>
-
+![Демонстрация](https://raw.githubusercontent.com/vbaryshev/urbanview/main/data/video/demo.gif)
 
 ### Быстрый старт
 
